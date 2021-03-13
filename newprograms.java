@@ -30,7 +30,7 @@ if(Desktop.isDesktopSupported()) {
 		
 }
 }else{
-System.out.println("this is not an you tube embed codes");
+System.out.println("this is not an youtube embed codes");
 	}
 	
 }
